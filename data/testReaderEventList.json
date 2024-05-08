@@ -1,0 +1,23 @@
+{
+  "Events": [{
+    "date": [{
+      "date": "(mon, july 4)",
+      "month": "july",
+      "dayName": "mon",
+      "day": 4
+    }],
+    "name": "event1",
+    "friends": [{
+      "name": "friend1",
+      "friend": "friend1: [({4040-4040} : NOT_AVAILABLE)]",
+      "statuses": [{
+        "startTime": "4040",
+        "endTime": "4040",
+        "category": "NOT_AVAILABLE",
+        "status": "({4040-4040} : NOT_AVAILABLE)"
+      }],
+      "status": ["({4040-4040} : NOT_AVAILABLE)"]
+    }]
+  }],
+  "name": "Events"
+}

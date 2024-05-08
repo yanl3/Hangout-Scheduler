@@ -1,0 +1,15 @@
+{
+    "Events": [
+        {
+            "date": [],
+            "name": "Birthday",
+            "friends": []
+        },
+        {
+            "date": [],
+            "name": "Party",
+            "friends": []
+        }
+    ],
+    "name": "Events"
+}
